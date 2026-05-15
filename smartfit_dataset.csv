@@ -1,0 +1,301 @@
+﻿Height_cm,Weight_kg,Gender,Chest_cm,Waist_cm,Hip_cm,Brand,Category,Size,Age,BMI
+170,65,Male,94,80,96,Zara,T-shirt,M,21,22.5
+182,85,Male,105,92,102,Nike,Hoodie,L,24,25.7
+158,50,Female,84,68,90,H&M,Dress,S,19,20
+165,58,Female,88,72,94,Adidas,T-shirt,S,22,21.3
+175,72,Male,98,84,99,Levi’s,Jacket,M,26,23.5
+168,62,Female,92,76,98,Zara,Dress,M,23,22
+185,96,Male,112,100,108,Nike,Hoodie,XL,28,28.1
+160,54,Female,86,70,92,H&M,Jeans,S,20,21.1
+172,70,Male,100,86,101,Adidas,T-shirt,M,25,23.7
+178,82,Male,104,90,105,Zara,Jacket,L,27,25.9
+155,47,Female,80,64,86,Levi’s,Dress,XS,18,19.6
+167,61,Female,90,74,97,Nike,Hoodie,M,24,21.9
+180,88,Male,108,96,110,Adidas,Jeans,XL,29,27.2
+162,56,Female,87,71,93,Zara,T-shirt,S,21,24.8
+174,76,Male,101,87,103,H&M,Hoodie,L,26,22.4
+169,64,Female,91,75,99,Levi’s,Dress,M,22,23.3
+177,79,Male,103,89,104,Nike,Jacket,L,25,20.6
+159,52,Female,85,69,91,Adidas,Jeans,S,30,27.5
+183,92,Male,110,98,109,Zara,Hoodie,XL,20,21.9
+164,59,Female,89,73,95,H&M,Dress,M,27,23.2
+171,68,Male,97,83,98,Levi’s,T-shirt,M,23,26.4
+176,78,Male,102,88,104,Adidas,Jacket,L,28,20.1
+157,49,Female,82,66,88,Zara,Dress,XS,19,21.8
+166,60,Female,90,74,96,Nike,Hoodie,M,24,27.8
+181,90,Male,109,97,108,H&M,Jeans,XL,31,22.6
+163,57,Female,88,72,94,Levi’s,T-shirt,S,22,24.1
+173,74,Male,100,85,102,Zara,Jacket,L,26,20.9
+168,63,Female,91,75,98,Adidas,Dress,M,21,26.9
+179,84,Male,106,93,106,Nike,Hoodie,XL,27,22.2
+161,55,Female,86,70,92,H&M,Jeans,S,23,23.8
+168,64,Male,96,82,98,Snitch,Shirt,M,22,22.7
+174,72,Male,101,86,102,Snitch,Shirt,L,24,23.8
+180,84,Male,106,92,107,Off Duty,Jeans,L,27,25.9
+182,88,Male,109,95,109,Off Duty,Jeans,XL,28,26.6
+170,67,Male,98,83,99,The Souled Store,T-shirt,M,23,23.2
+176,78,Male,103,89,104,The Souled Store,T-shirt,L,25,25.2
+165,58,Female,88,72,94,Zara,Dress,S,21,21.3
+160,53,Female,85,69,91,H&M,Top,S,20,20.7
+172,70,Male,100,85,101,Snitch,Shirt,M,24,23.7
+178,81,Male,105,91,106,Off Duty,Jeans,L,26,25.6
+169,62,Female,90,74,97,Forever 21,Dress,M,22,21.7
+163,56,Female,87,71,93,ONLY,Top,S,21,21.1
+181,90,Male,110,98,109,Levi's,Jeans,XL,29,27.5
+175,75,Male,102,87,103,Snitch,Shirt,L,25,24.5
+167,60,Female,89,73,95,Zara,Top,M,22,21.5
+158,49,Female,82,66,88,H&M,Dress,XS,19,19.6
+173,73,Male,101,86,102,The Souled Store,T-shirt,L,24,24.4
+179,85,Male,107,94,108,Off Duty,Jeans,XL,27,26.5
+166,59,Female,88,72,94,Forever 21,Dress,S,21,21.4
+171,68,Male,99,84,100,Snitch,Shirt,M,23,23.3
+177,80,Male,104,90,105,Levi's,Jacket,L,26,25.5
+162,55,Female,86,70,92,ONLY,Top,S,20,21
+184,92,Male,111,99,110,Off Duty,Jeans,XL,30,27.2
+170,66,Female,91,75,98,Zara,Dress,M,23,22.8
+176,77,Male,103,88,104,The Souled Store,T-shirt,L,25,24.9
+164,57,Female,87,71,93,H&M,Top,S,21,21.2
+169,63,Male,97,82,99,Snitch,Shirt,M,22,22.1
+180,86,Male,108,95,108,Levi's,Jeans,XL,28,26.5
+159,51,Female,84,68,90,ONLY,Dress,S,20,20.2
+174,74,Male,101,87,103,The Souled Store,T-shirt,L,24,24.4
+168,61,Female,90,74,96,Forever 21,Top,M,22,21.6
+182,89,Male,109,97,109,Off Duty,Jeans,XL,29,26.9
+171,69,Male,99,84,100,Snitch,Shirt,M,23,23.6
+165,58,Female,88,72,94,Zara,Dress,S,21,21.3
+178,82,Male,105,91,106,Levi's,Jacket,L,27,25.9
+163,56,Female,87,71,93,H&M,Top,S,20,21.1
+175,76,Male,102,88,104,The Souled Store,T-shirt,L,25,24.8
+160,52,Female,85,69,91,ONLY,Dress,S,19,20.3
+183,91,Male,110,98,110,Off Duty,Jeans,XL,30,27.1
+167,60,Female,89,73,95,Forever 21,Top,M,22,21.5
+172,71,Male,100,85,101,Snitch,Shirt,M,24,24
+179,84,Male,106,93,107,Levi's,Jacket,L,27,26.2
+166,59,Female,88,72,94,Zara,Dress,S,21,21.4
+177,79,Male,104,90,105,The Souled Store,T-shirt,L,26,25.2
+161,54,Female,86,70,92,H&M,Top,S,20,20.8
+181,88,Male,108,96,108,Off Duty,Jeans,XL,29,26.9
+169,62,Female,90,74,97,ONLY,Dress,M,22,21.7
+173,72,Male,101,86,102,Snitch,Shirt,L,24,24.1
+180,85,Male,107,94,108,Levi's,Jacket,XL,28,26.2
+164,57,Female,87,71,93,Forever 21,Top,S,21,21.2
+176,78,Male,103,89,104,The Souled Store,T-shirt,L,25,25.1
+158,50,Female,83,67,89,H&M,Dress,XS,19,20
+182,90,Male,109,97,109,Off Duty,Jeans,XL,30,27.2
+170,65,Female,91,75,98,Zara,Dress,M,23,22.5
+174,75,Male,102,87,103,Snitch,Shirt,L,25,24.8
+162,55,Female,86,70,92,ONLY,Top,S,20,21
+178,83,Male,105,92,106,Levi's,Jacket,L,27,26.2
+166,58,Female,88,72,94,H&M,Dress,S,21,21
+171,67,Male,98,83,99,The Souled Store,T-shirt,M,23,22.9
+184,93,Male,111,100,111,Off Duty,Jeans,XL,31,27.5
+160,53,Female,85,69,91,Forever 21,Top,S,20,20.7
+175,77,Male,103,88,104,Snitch,Shirt,L,26,25.1
+168,61,Female,90,74,96,Zara,Dress,M,22,21.6
+179,86,Male,107,95,108,Levi's,Jacket,XL,28,26.8
+163,56,Female,87,71,93,H&M,Top,S,21,21.1
+177,80,Male,104,90,105,The Souled Store,T-shirt,L,27,25.5
+159,51,Female,84,68,90,ONLY,Dress,S,19,20.2
+181,89,Male,109,97,109,Off Duty,Jeans,XL,30,27.2
+167,60,Female,89,73,95,Forever 21,Top,M,22,21.5
+172,70,Male,100,85,101,Snitch,Shirt,M,24,23.7
+180,84,Male,106,93,107,Levi's,Jacket,L,28,25.9
+165,58,Female,88,72,94,Zara,Dress,S,21,21.3
+176,78,Male,103,89,104,The Souled Store,T-shirt,L,26,25.2
+161,54,Female,86,70,92,H&M,Top,S,20,20.8
+183,92,Male,110,99,110,Off Duty,Jeans,XL,31,27.4
+169,62,Female,90,74,97,ONLY,Dress,M,22,21.7
+173,73,Male,101,86,102,Snitch,Shirt,L,25,24.4
+178,82,Male,105,91,106,Levi's,Jacket,L,27,25.9
+164,57,Female,87,71,93,Forever 21,Top,S,21,21.2
+175,76,Male,102,88,104,The Souled Store,T-shirt,L,26,24.8
+158,50,Female,83,67,89,H&M,Dress,XS,19,20
+182,91,Male,110,98,110,Off Duty,Jeans,XL,30,27.5
+170,66,Female,91,75,98,Zara,Dress,M,23,22.8
+174,74,Male,101,87,103,Snitch,Shirt,L,25,24.4
+162,55,Female,86,70,92,ONLY,Top,S,20,21
+179,85,Male,107,94,108,Levi's,Jacket,XL,28,26.5
+166,58,Female,88,72,94,H&M,Dress,S,21,21
+171,68,Male,99,84,100,The Souled Store,T-shirt,M,24,23.3
+184,94,Male,112,101,112,Off Duty,Jeans,XL,31,27.7
+160,52,Female,85,69,91,Forever 21,Top,S,20,20.3
+176,77,Male,103,88,104,Snitch,Shirt,L,26,24.9
+168,61,Female,90,74,96,Zara,Dress,M,22,21.6
+180,87,Male,108,95,108,Levi's,Jacket,XL,29,26.8
+163,56,Female,87,71,93,H&M,Top,S,21,21.1
+177,79,Male,104,90,105,The Souled Store,T-shirt,L,27,25.2
+159,51,Female,84,68,90,ONLY,Dress,S,19,20.2
+181,90,Male,109,98,109,Off Duty,Jeans,XL,30,27.5
+167,60,Female,89,73,95,Forever 21,Top,M,22,21.5
+172,71,Male,100,85,101,Snitch,Shirt,M,24,24
+178,83,Male,106,92,107,Levi's,Jacket,L,28,26.2
+165,58,Female,88,72,94,Zara,Dress,S,21,21.3
+176,78,Male,103,89,104,The Souled Store,T-shirt,L,26,25.1
+161,54,Female,86,70,92,H&M,Top,S,20,20.8
+183,93,Male,111,100,111,Off Duty,Jeans,XL,31,27.8
+169,62,Female,90,74,97,ONLY,Dress,M,22,21.7
+173,72,Male,101,86,102,Snitch,Shirt,L,25,24.1
+179,84,Male,106,93,107,Levi's,Jacket,L,28,25.9
+164,57,Female,87,71,93,Forever 21,Top,S,21,21.2
+175,75,Male,102,87,103,The Souled Store,T-shirt,L,26,24.5
+158,49,Female,82,66,88,H&M,Dress,XS,19,19.6
+182,90,Male,109,97,109,Off Duty,Jeans,XL,30,27.2
+170,65,Female,91,75,98,Zara,Dress,M,23,22.5
+174,74,Male,101,87,103,Snitch,Shirt,L,25,24.4
+162,55,Female,86,70,92,ONLY,Top,S,20,21
+178,82,Male,105,91,106,Levi's,Jacket,L,27,25.9
+166,59,Female,88,72,94,H&M,Dress,S,21,21.4
+171,67,Male,98,83,99,The Souled Store,T-shirt,M,24,22.9
+184,92,Male,111,99,110,Off Duty,Jeans,XL,31,27.2
+160,53,Female,85,69,91,Forever 21,Top,S,20,20.7
+176,77,Male,103,88,104,Snitch,Shirt,L,26,24.9
+168,61,Female,90,74,96,Zara,Dress,M,22,21.6
+180,86,Male,107,94,108,Levi's,Jacket,XL,29,26.5
+163,56,Female,87,71,93,H&M,Top,S,21,21.1
+177,80,Male,104,90,105,The Souled Store,T-shirt,L,27,25.5
+159,51,Female,84,68,90,ONLY,Dress,S,19,20.2
+181,89,Male,109,97,109,Off Duty,Jeans,XL,30,27.2
+167,60,Female,89,73,95,Forever 21,Top,M,22,21.5
+172,70,Male,100,85,101,Snitch,Shirt,M,24,23.7
+179,85,Male,107,94,108,Levi's,Jacket,XL,28,26.5
+165,58,Female,88,72,94,Zara,Dress,S,21,21.3
+176,78,Male,103,89,104,The Souled Store,T-shirt,L,26,25.2
+161,54,Female,86,70,92,H&M,Top,S,20,20.8
+183,91,Male,110,98,110,Off Duty,Jeans,XL,31,27.1
+172,70,Male,100,85,101,Uniqlo,T-shirt,M,24,23.7
+178,82,Male,105,91,106,HRX,Trackpants,L,27,25.9
+165,58,Female,88,72,94,Cider,Top,S,21,21.3
+181,89,Male,109,97,109,Puma,Hoodie,XL,29,27.2
+169,62,Female,90,74,97,Bonkers,Oversized T-shirt,M,22,21.7
+174,75,Male,102,88,104,Uniqlo,Shirt,L,25,24.8
+160,53,Female,85,69,91,Cider,Dress,S,20,20.7
+177,80,Male,104,90,105,HRX,Jacket,L,26,25.5
+166,59,Female,89,73,95,Bonkers,Crop Top,M,22,21.4
+183,92,Male,111,99,110,Puma,Joggers,XL,30,27.5
+171,67,Male,98,83,99,Uniqlo,T-shirt,M,23,22.9
+158,50,Female,83,67,89,Cider,Top,XS,19,20
+176,78,Male,103,89,104,HRX,Trackpants,L,27,25.2
+164,57,Female,87,71,93,Bonkers,Oversized T-shirt,S,21,21.2
+180,86,Male,108,95,108,Puma,Hoodie,XL,28,26.5
+168,61,Female,90,74,96,Cider,Crop Top,M,22,21.6
+173,73,Male,101,86,102,Uniqlo,Shirt,L,25,24.4
+162,55,Female,86,70,92,Bonkers,Top,S,20,21
+179,84,Male,106,93,107,HRX,Jacket,L,28,26.2
+167,60,Female,89,73,95,Cider,Dress,M,22,21.5
+182,90,Male,109,97,109,Puma,Joggers,XL,30,27.2
+170,66,Female,91,75,98,Bonkers,Crop Top,M,23,22.8
+175,76,Male,102,88,104,Uniqlo,T-shirt,L,26,24.8
+161,54,Female,86,70,92,Cider,Top,S,20,20.8
+178,83,Male,105,92,106,HRX,Trackpants,L,27,26.2
+165,58,Female,88,72,94,Bonkers,Oversized T-shirt,S,21,21.3
+184,93,Male,112,100,111,Puma,Hoodie,XL,31,27.5
+169,62,Female,90,74,97,Cider,Dress,M,22,21.7
+172,71,Male,100,85,101,Uniqlo,Shirt,M,24,24
+177,79,Male,104,90,105,HRX,Jacket,L,27,25.2
+163,56,Female,87,71,93,Bonkers,Top,S,21,21.1
+181,88,Male,108,96,108,Puma,Joggers,XL,29,26.9
+166,59,Female,89,73,95,Cider,Crop Top,M,22,21.4
+174,74,Male,101,87,103,Uniqlo,T-shirt,L,25,24.4
+160,52,Female,85,69,91,Bonkers,Top,S,20,20.3
+179,85,Male,107,94,108,HRX,Trackpants,XL,28,26.5
+168,61,Female,90,74,96,Cider,Dress,M,22,21.6
+183,91,Male,110,98,110,Puma,Hoodie,XL,30,27.1
+171,68,Male,99,84,100,Uniqlo,Shirt,M,24,23.3
+164,57,Female,87,71,93,Bonkers,Oversized T-shirt,S,21,21.2
+176,77,Male,103,88,104,HRX,Jacket,L,26,24.9
+159,51,Female,84,68,90,Cider,Top,S,19,20.2
+180,87,Male,108,95,108,Puma,Joggers,XL,29,26.8
+167,60,Female,89,73,95,Bonkers,Crop Top,M,22,21.5
+173,72,Male,101,86,102,Uniqlo,T-shirt,L,25,24.1
+162,55,Female,86,70,92,Cider,Dress,S,20,21
+178,82,Male,105,91,106,HRX,Trackpants,L,27,25.9
+165,58,Female,88,72,94,Bonkers,Top,S,21,21.3
+182,90,Male,109,97,109,Puma,Hoodie,XL,30,27.2
+170,65,Female,91,75,98,Cider,Crop Top,M,23,22.5
+175,75,Male,102,87,103,Uniqlo,Shirt,L,26,24.5
+161,54,Female,86,70,92,Bonkers,Oversized T-shirt,S,20,20.8
+177,80,Male,104,90,105,HRX,Jacket,L,27,25.5
+166,59,Female,89,73,95,Cider,Top,M,22,21.4
+181,89,Male,109,97,109,Puma,Joggers,XL,30,27.2
+169,62,Female,90,74,97,Bonkers,Crop Top,M,22,21.7
+174,74,Male,101,87,103,Uniqlo,T-shirt,L,25,24.4
+160,53,Female,85,69,91,Cider,Dress,S,20,20.7
+179,84,Male,106,93,107,HRX,Trackpants,L,28,25.9
+168,61,Female,90,74,96,Bonkers,Top,M,22,21.6
+183,92,Male,111,99,110,Puma,Hoodie,XL,31,27.5
+171,67,Male,98,83,99,Uniqlo,Shirt,M,24,22.9
+163,56,Female,87,71,93,Cider,Crop Top,S,21,21.1
+176,78,Male,103,89,104,HRX,Jacket,L,27,25.2
+165,58,Female,88,72,94,Bonkers,Oversized T-shirt,S,21,21.3
+180,86,Male,108,95,108,Puma,Joggers,XL,29,26.5
+167,60,Female,89,73,95,Cider,Top,M,22,21.5
+172,70,Male,100,85,101,Uniqlo,T-shirt,M,24,23.7
+178,83,Male,105,92,106,HRX,Trackpants,L,27,26.2
+164,57,Female,87,71,93,Bonkers,Top,S,21,21.2
+182,91,Male,110,98,110,Puma,Hoodie,XL,30,27.5
+170,66,Female,91,75,98,Cider,Dress,M,23,22.8
+175,76,Male,102,88,104,Uniqlo,Shirt,L,26,24.8
+161,54,Female,86,70,92,Bonkers,Crop Top,S,20,20.8
+177,79,Male,104,90,105,HRX,Jacket,L,27,25.2
+166,59,Female,89,73,95,Cider,Top,M,22,21.4
+181,88,Male,108,96,108,Puma,Joggers,XL,29,26.9
+169,62,Female,90,74,97,Bonkers,Oversized T-shirt,M,22,21.7
+174,73,Male,101,86,102,Uniqlo,T-shirt,L,25,24.1
+162,55,Female,86,70,92,Cider,Dress,S,20,21
+179,85,Male,107,94,108,HRX,Trackpants,XL,28,26.5
+168,61,Female,90,74,96,Bonkers,Top,M,22,21.6
+183,91,Male,110,98,110,Puma,Hoodie,XL,30,27.1
+171,68,Male,99,84,100,Uniqlo,Shirt,M,24,23.3
+164,57,Female,87,71,93,Cider,Crop Top,S,21,21.2
+176,77,Male,103,88,104,HRX,Jacket,L,26,24.9
+159,51,Female,84,68,90,Bonkers,Oversized T-shirt,S,19,20.2
+180,87,Male,108,95,108,Puma,Joggers,XL,29,26.8
+167,60,Female,89,73,95,Cider,Top,M,22,21.5
+173,72,Male,101,86,102,Uniqlo,T-shirt,L,25,24.1
+162,55,Female,86,70,92,Bonkers,Crop Top,S,20,21
+178,82,Male,105,91,106,HRX,Trackpants,L,27,25.9
+165,58,Female,88,72,94,Cider,Dress,S,21,21.3
+182,90,Male,109,97,109,Puma,Hoodie,XL,30,27.2
+170,65,Female,91,75,98,Bonkers,Top,M,23,22.5
+175,75,Male,102,87,103,Uniqlo,Shirt,L,26,24.5
+161,54,Female,86,70,92,Cider,Crop Top,S,20,20.8
+177,80,Male,104,90,105,HRX,Jacket,L,27,25.5
+166,59,Female,89,73,95,Bonkers,Oversized T-shirt,M,22,21.4
+181,89,Male,109,97,109,Puma,Joggers,XL,30,27.2
+169,62,Female,90,74,97,Cider,Top,M,22,21.7
+174,74,Male,101,87,103,Uniqlo,T-shirt,L,25,24.4
+160,53,Female,85,69,91,Bonkers,Crop Top,S,20,20.7
+179,84,Male,106,93,107,HRX,Trackpants,L,28,25.9
+168,61,Female,90,74,96,Cider,Dress,M,22,21.6
+183,92,Male,111,99,110,Puma,Hoodie,XL,31,27.5
+171,67,Male,98,83,99,Uniqlo,Shirt,M,24,22.9
+163,56,Female,87,71,93,Bonkers,Top,S,21,21.1
+176,78,Male,103,89,104,HRX,Jacket,L,27,25.2
+165,58,Female,88,72,94,Cider,Crop Top,S,21,21.3
+180,86,Male,108,95,108,Puma,Joggers,XL,29,26.5
+167,60,Female,89,73,95,Bonkers,Oversized T-shirt,M,22,21.5
+172,70,Male,100,85,101,Uniqlo,T-shirt,M,24,23.7
+178,83,Male,105,92,106,HRX,Trackpants,L,27,26.2
+164,57,Female,87,71,93,Cider,Top,S,21,21.2
+182,91,Male,110,98,110,Puma,Hoodie,XL,30,27.5
+170,66,Female,91,75,98,Bonkers,Crop Top,M,23,22.8
+175,76,Male,102,88,104,Uniqlo,Shirt,L,26,24.8
+161,54,Female,86,70,92,Cider,Dress,S,20,20.8
+177,79,Male,104,90,105,HRX,Jacket,L,27,25.2
+166,59,Female,89,73,95,Bonkers,Top,M,22,21.4
+181,88,Male,108,96,108,Puma,Joggers,XL,29,26.9
+169,62,Female,90,74,97,Cider,Crop Top,M,22,21.7
+173,71,Male,100,85,101,Zara,Shirt,M,24,23.7
+168,62,Female,90,74,96,Uniqlo,Top,M,22,21.9
+181,89,Male,109,97,109,Puma,Hoodie,XL,29,27.2
+165,58,Female,88,72,94,Cider,Crop Top,S,21,21.3
+177,80,Male,104,90,105,Snitch,T-shirt,L,27,25.5
+160,53,Female,85,69,91,H&M,Dress,S,20,20.7
+184,93,Male,112,100,111,Off Duty,Jeans,XL,31,27.5
+171,67,Male,98,83,99,The Souled Store,Oversized T-shirt,M,23,22.9
+166,59,Female,89,73,95,Bonkers,Top,M,22,21.4
+179,84,Male,106,93,107,HRX,Jacket,L,28,25.9
+162,55,Female,86,70,92,ONLY,Dress,S,20,21
+175,76,Male,102,88,104,Levi's,Jeans,L,26,24.8
+170,66,Female,91,75,98,Forever 21,Top,M,23,22.8
+174,74,Male,101,87,103,Uniqlo,T-shirt,L,25,24.4
